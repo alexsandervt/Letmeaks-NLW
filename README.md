@@ -17,4 +17,4 @@ O Letmeask é uma aplicação de interação através de salas logadas com pergu
 
 #### Desenvolvido por
 
-> ======= Alexsander Telles 🤓 | Desenvolvedor Frontend ♥️ ========<
+======= Alexsander Telles 🤓 | Desenvolvedor Frontend ♥️ ========
